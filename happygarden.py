@@ -15,6 +15,7 @@ fangflower_collision = False
 time_elapsed = 0
 start_time = time.time()
 
+// lee lone lone
 cow = Actor("cow")
 cow.pos = 100, 500
 
